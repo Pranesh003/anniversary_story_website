@@ -44,7 +44,7 @@ export const MEMORIES: MemoryItem[] = [
   },
   {
     id: 'm1i',
-    title: 'Our College IV Days ❤️',
+    title: 'Our College IV Days — Caring for You ❤️',
     date: 'College IV Trip',
     category: 'support',
     imageUrl: '/images/college-iv-water-care.jpg?v=1',
@@ -121,7 +121,7 @@ export const MEMORIES: MemoryItem[] = [
   },
   {
     id: 'm2',
-    title: 'The Day I Proposed to Her ❤️',
+    title: 'On This Day I Proposed to Her ❤️',
     date: 'September 26, 2024',
     category: 'college',
     imageUrl: '/images/rotaract-memory-v10.jpg',
