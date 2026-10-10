@@ -85,5 +85,16 @@ export const MEMORIES: MemoryItem[] = [
     caption: 'The night she said yes. Chatting until 3 AM and the morning call: "I love you too."',
     handwrittenNote: 'Best night of my life ❤️',
     location: 'Late Night Phone Call'
+  },
+  {
+    id: 'm4',
+    title: 'Our Pongal 2026 Celebration ❤️',
+    date: 'January 2026',
+    category: 'photos',
+    imageUrl: '/images/our-pongal-celebration.jpg?v=1',
+    placeholderName: 'our-pongal-celebration.jpg',
+    caption: 'Our Pongal 2026 Celebration',
+    handwrittenNote: 'Your saree looking more romantic Swasthika! ❤️',
+    location: 'Pongal Celebration'
   }
 ];
