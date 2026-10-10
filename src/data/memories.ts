@@ -54,6 +54,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Rathinam College Campus'
   },
   {
+    id: 'm1g',
+    title: 'Our Dhruva College Days ❤️',
+    date: 'Dhruva Fest Days',
+    category: 'college',
+    imageUrl: '/images/college-dhurva-days.jpg?v=1',
+    placeholderName: 'college-dhurva-days.jpg',
+    caption: 'Our Dhruva fest college days — sitting back to back on the grass, sharing smiles and lovely moments together.',
+    handwrittenNote: 'College lovely days with you, Swasthika... ❤️',
+    location: 'Dhruva College Grounds'
+  },
+  {
     id: 'm1e',
     title: 'Mangalore Panambur Beach Day ❤️',
     date: 'College IV Trip',
