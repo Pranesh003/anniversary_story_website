@@ -98,11 +98,7 @@ export function App() {
             September 19, 2023 – October 11, 2026 and forever. Built with love for Swasthika.
           </p>
 
-          <div className="inline-block mt-4 px-4 py-2 bg-[#782E43]/60 rounded-lg text-left text-[11px] font-mono border border-[#D8A0A8]/30 max-w-md">
-            <span className="text-[#C5A46D] font-bold block mb-1">📸 How to add your real photos & song:</span>
-            1. Add your pictures inside <code className="text-[#F4E7D8]">public/images/</code> or update <code className="text-[#F4E7D8]">src/data/story.ts</code> & <code className="text-[#F4E7D8]">src/data/memories.ts</code>.<br />
-            2. Place your song in <code className="text-[#F4E7D8]">public/audio/our-song.mp3</code>.
-          </div>
+
         </div>
       </footer>
     </div>
