@@ -142,7 +142,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Give me one reason to love you, Pranesh...",
     highlightText: "Every moment of waiting was proof of how deeply I cared.",
     imagePlaceholderName: "waiting-calendar-memory.jpg",
-    defaultImageUrl: "/images/waiting-calendar-memory-v7.jpg",
+    defaultImageUrl: "/images/waiting-calendar-memory-v8.jpg",
     imageCaption: "Days of Hope & Nervous Anticipation",
     theme: "cream"
   },
