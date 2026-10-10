@@ -22,35 +22,35 @@ export const MEMORY_CATEGORIES = [
 export const MEMORIES: MemoryItem[] = [
   {
     id: 'm1',
-    title: 'First Campus Stroll',
+    title: 'The First Sight at College ❤️',
     date: 'September 19, 2023',
     category: 'college',
     imageUrl: '/images/first-college-day.jpg?v=3',
     placeholderName: 'first-college-day.jpg',
-    caption: 'Walking through college pathways, mesmerized by your smile.',
+    caption: 'My first day at college — seeing you for the very first time.',
     handwrittenNote: 'Where it all started...',
     location: 'College Campus'
   },
   {
     id: 'm1b',
-    title: 'Friendship Before Love',
+    title: 'Our Golden Days of Friendship ❤️',
     date: 'Late September 2023',
     category: 'college',
     imageUrl: '/images/college-friendship.jpg?v=3',
     placeholderName: 'college-friendship.jpg',
-    caption: 'Our first college IV days',
+    caption: 'Our first college IV days — golden days of friendship.',
     handwrittenNote: 'Becoming someone I never wanted to lose...',
     location: 'Karpagam College Campus'
   },
   {
     id: 'm1i',
-    title: 'Our College IV Days — Caring for You ❤️',
+    title: 'Our College IV Days ❤️',
     date: 'College IV Trip',
     category: 'support',
     imageUrl: '/images/college-iv-water-care.jpg?v=1',
     placeholderName: 'college-iv-water-care.jpg',
-    caption: 'During our college IV trip, seeing you so tired and bringing water for you — a moment of care that felt so romantic and real.',
-    handwrittenNote: 'Bringing you water when you were tired on our IV trip... always caring for you ❤️',
+    caption: 'Our college IV days — looking so tired, I brought water to you, looking so romantic.',
+    handwrittenNote: 'Looking so tired, I bring water to you... looking so romantic ❤️',
     location: 'College IV Outing'
   },
   {
@@ -60,8 +60,8 @@ export const MEMORIES: MemoryItem[] = [
     category: 'dates',
     imageUrl: '/images/our-first-ride-date.jpg?v=1',
     placeholderName: 'our-first-ride-date.jpg',
-    caption: 'Our first ride date — taking you on my vehicle and dropping you at the bus stand with a heart full of happiness.',
-    handwrittenNote: 'Dropping you at the bus stand after our very first ride date... ❤️',
+    caption: 'Our first ride date — I dropped you at the bus stand with my vehicle.',
+    handwrittenNote: 'I dropped you at the bus stand with my vehicle... ❤️',
     location: 'Bus Stand Drop-off'
   },
   {
@@ -71,35 +71,35 @@ export const MEMORIES: MemoryItem[] = [
     category: 'college',
     imageUrl: '/images/rathinam-college-days.jpg?v=1',
     placeholderName: 'rathinam-college-days.jpg',
-    caption: 'Our Rathinam College days filled with so much fun, laughter, and romantic moments together.',
-    handwrittenNote: 'More fun and romantic days with you Swasthika... ❤️',
+    caption: 'Our Rathinam College days — more fun and romantic days.',
+    handwrittenNote: 'More fun and romantic days with you, Swasthika... ❤️',
     location: 'Rathinam College Campus'
   },
   {
     id: 'm1g',
-    title: 'Our Dhruva College Days ❤️',
+    title: 'Our College Dhruva Days ❤️',
     date: 'Dhruva Fest Days',
     category: 'college',
     imageUrl: '/images/college-dhurva-days.jpg?v=1',
     placeholderName: 'college-dhurva-days.jpg',
-    caption: 'Our Dhruva fest college days — sitting back to back on the grass, sharing smiles and lovely moments together.',
+    caption: 'Our college Dhruva days — college lovely days.',
     handwrittenNote: 'College lovely days with you, Swasthika... ❤️',
     location: 'Dhruva College Grounds'
   },
   {
     id: 'm1e',
-    title: 'Mangalore Panambur Beach Day ❤️',
+    title: 'Our IV Mangalore Panambur Beach Day ❤️',
     date: 'College IV Trip',
     category: 'dates',
     imageUrl: '/images/mangalore-panambur-beach.jpg?v=1',
     placeholderName: 'mangalore-panambur-beach.jpg',
-    caption: 'That day I promised to bring you back here to lead our life together, and we exchanged our rings beside the beach waves.',
-    handwrittenNote: 'Exchanging rings by the ocean waves, promising a lifetime together... ❤️',
+    caption: 'That day I promised you to bring again here to lead our life, and that day we exchanged our rings beside the beach.',
+    handwrittenNote: 'Promised to bring you again here to lead our life... exchanged our rings by the beach ❤️',
     location: 'Mangalore Panambur Beach'
   },
   {
     id: 'm1c',
-    title: 'Somewhere Between Friends & Love',
+    title: 'Somewhere Between Friends & Love ❤️',
     date: 'October 2023',
     category: 'dates',
     imageUrl: '/images/college-event.jpg?v=3',
@@ -110,25 +110,25 @@ export const MEMORIES: MemoryItem[] = [
   },
   {
     id: 'm1d',
-    title: 'Was That a Hint?',
+    title: 'Our Imparathon Event Days ❤️',
     date: 'Early September 2024',
     category: 'laughs',
     imageUrl: '/images/vacation-reel-screenshot.jpg?v=3',
     placeholderName: 'vacation-reel-screenshot.jpg',
-    caption: 'Our Imparathon Event Days',
+    caption: 'Our Imparathon Event Days — sending that special reel.',
     handwrittenNote: 'Was it a hint or was my heart just hoping?',
     location: 'Imparathon Event Days'
   },
   {
     id: 'm2',
-    title: 'Our Golden Days of Friendship ❤️',
+    title: 'The Day I Proposed to Her ❤️',
     date: 'September 26, 2024',
     category: 'college',
     imageUrl: '/images/rotaract-memory-v10.jpg',
     placeholderName: 'rotaract-memory.jpg',
-    caption: 'Our Golden Days of Friendship ❤️',
+    caption: 'On this day I proposed to her ❤️',
     handwrittenNote: 'My heart was beating so fast!',
-    location: 'Special College Moment'
+    location: 'Proposal Day'
   },
   {
     id: 'm3',
@@ -143,13 +143,13 @@ export const MEMORIES: MemoryItem[] = [
   },
   {
     id: 'm3b',
-    title: 'Our Pongal 2025 — First Photoshoot ❤️',
+    title: 'Our Pongal 2025 Day ❤️',
     date: 'January 2025',
     category: 'photos',
     imageUrl: '/images/our-pongal-2025.jpg?v=1',
     placeholderName: 'our-pongal-2025.jpg',
-    caption: 'Our Pongal 2025 Day — Our first special photoshoot & pre-wedding vibes.',
-    handwrittenNote: 'Our very first photoshoot together... looking like a dream ❤️',
+    caption: 'Our Pongal 2025 day — our first photoshoot & pre-wedding photoshoot.',
+    handwrittenNote: 'Our first photoshoot, pre-wedding photoshoot... looking like a dream ❤️',
     location: 'College Fest Grounds'
   },
   {
@@ -159,8 +159,8 @@ export const MEMORIES: MemoryItem[] = [
     category: 'photos',
     imageUrl: '/images/our-onam-2025-celebration.jpg?v=1',
     placeholderName: 'our-onam-2025-celebration.jpg',
-    caption: 'Our Onam Celebration Day 2025 — You looked gorgeous in your saree, and I always love keeping my arm around your waist.',
-    handwrittenNote: 'You looked gorgeous that day, Swasthika... always holding you close ❤️',
+    caption: 'Our Onam celebration day 2025 — you look gorgeous that day, I always keep my hand over your waist.',
+    handwrittenNote: 'You look gorgeous that day, I always keep my hand over your waist ❤️',
     location: 'Onam Celebration'
   },
   {
@@ -170,7 +170,7 @@ export const MEMORIES: MemoryItem[] = [
     category: 'photos',
     imageUrl: '/images/our-pongal-celebration.jpg?v=1',
     placeholderName: 'our-pongal-celebration.jpg',
-    caption: 'Our Pongal 2026 Celebration',
+    caption: 'Our Pongal 2026 celebration — your saree looking more romantic.',
     handwrittenNote: 'Your saree looking more romantic Swasthika! ❤️',
     location: 'Pongal Celebration'
   },
@@ -181,8 +181,8 @@ export const MEMORIES: MemoryItem[] = [
     category: 'photos',
     imageUrl: '/images/our-onam-2026-days.jpg?v=1',
     placeholderName: 'our-onam-2026-days.jpg',
-    caption: 'Our Onam 2026 Celebration — Matching traditional attire, cute poses, and you looking irresistibly gorgeous.',
-    handwrittenNote: 'Your waist looking so tempting to me, just like you... ❤️',
+    caption: 'Our Onam 2026 days — your waist looking so tempting to me, like you.',
+    handwrittenNote: 'Your waist looking so tempt to me like u... ❤️',
     location: 'Onam 2026 Celebration'
   }
 ];
