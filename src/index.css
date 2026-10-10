@@ -47,7 +47,7 @@
 }
 
 .polaroid-card:hover {
-  transform: translateY(-6px) rotate(1deg);
+  transform: translateY(-6px);
   box-shadow: 0 20px 30px -10px rgba(120, 46, 67, 0.25);
 }
 

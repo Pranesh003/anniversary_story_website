@@ -127,7 +127,7 @@ export const StoryChapter: React.FC<StoryChapterProps> = ({ chapter }) => {
             transition={{ duration: 0.8 }}
             className="lg:col-span-5 flex flex-col items-center"
           >
-            <div className="polaroid-card w-full max-w-sm rounded-lg transform rotate-2 hover:rotate-0 transition-transform duration-300">
+            <div className="polaroid-card w-full max-w-sm rounded-lg transform rotate-0 transition-transform duration-300">
               <div className="relative aspect-4/3 w-full bg-[#F4E7D8] rounded overflow-hidden shadow-inner group">
                 {!imgError ? (
                   <img
