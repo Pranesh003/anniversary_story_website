@@ -199,7 +199,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     chapterNumber: "09",
     title: "Two Years, A Thousand Little Memories",
     subtitle: "Two Years of Us",
-    date: "October 11, 2023 – October 11, 2025",
+    date: "October 11, 2024 – October 11, 2025",
     badge: "Our Memory Scrapbook",
     content: [
       "Two years of laughter, late night calls, college dates, silly fights, heartfelt apologies, and unconditional support.",
