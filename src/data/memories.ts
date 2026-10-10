@@ -173,5 +173,16 @@ export const MEMORIES: MemoryItem[] = [
     caption: 'Our Pongal 2026 Celebration',
     handwrittenNote: 'Your saree looking more romantic Swasthika! ❤️',
     location: 'Pongal Celebration'
+  },
+  {
+    id: 'm5',
+    title: 'Our Onam 2026 Days ❤️',
+    date: 'September 2026',
+    category: 'photos',
+    imageUrl: '/images/our-onam-2026-days.jpg?v=1',
+    placeholderName: 'our-onam-2026-days.jpg',
+    caption: 'Our Onam 2026 Celebration — Matching traditional attire, cute poses, and you looking irresistibly gorgeous.',
+    handwrittenNote: 'Your waist looking so tempting to me, just like you... ❤️',
+    location: 'Onam 2026 Celebration'
   }
 ];
