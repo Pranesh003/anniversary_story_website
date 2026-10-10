@@ -121,7 +121,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     highlightText: "I had so much to say, but when I stood in front of you, my heart knew more than my words.",
     imagePlaceholderName: "rotaract-memory.jpg",
     defaultImageUrl: "/images/rotaract-memory-v10.jpg",
-    imageCaption: "On this day I proposed to her ❤️",
+    imageCaption: "Our Golden Friendship Days ❤️",
     theme: "gold"
   },
   {
