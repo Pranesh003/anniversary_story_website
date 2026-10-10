@@ -43,6 +43,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Karpagam College Campus'
   },
   {
+    id: 'm1f',
+    title: 'Our Rathinam College Days ❤️',
+    date: 'College Memories',
+    category: 'college',
+    imageUrl: '/images/rathinam-college-days.jpg?v=1',
+    placeholderName: 'rathinam-college-days.jpg',
+    caption: 'Our Rathinam College days filled with so much fun, laughter, and romantic moments together.',
+    handwrittenNote: 'More fun and romantic days with you Swasthika... ❤️',
+    location: 'Rathinam College Campus'
+  },
+  {
     id: 'm1e',
     title: 'Mangalore Panambur Beach Day ❤️',
     date: 'College IV Trip',
