@@ -56,7 +56,7 @@ export const MEMORIES: MemoryItem[] = [
   {
     id: 'm1d',
     title: 'Was That a Hint?',
-    date: 'Early October 2023',
+    date: 'Early September 2024',
     category: 'laughs',
     imageUrl: '/images/vacation-reel-screenshot.jpg?v=3',
     placeholderName: 'vacation-reel-screenshot.jpg',

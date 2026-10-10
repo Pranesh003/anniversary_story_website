@@ -85,7 +85,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     chapterNumber: "04",
     title: "Was That a Hint?",
     subtitle: "The Reel That Made Me Wonder",
-    date: "Early October 2023",
+    date: "Early September 2024",
     badge: "The Turning Point",
     content: [
       "One day, when you had gone home for a vacation, you sent me a reel.",
