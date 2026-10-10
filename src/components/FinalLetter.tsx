@@ -91,7 +91,7 @@ export const FinalLetter: React.FC<FinalLetterProps> = ({ onReplay }) => {
 
             <div className="space-y-2 text-sm sm:text-base font-medium text-[#D8A0A8]">
               <p>September 19, 2023 — The first sight.</p>
-              <p>October 11, 2023 — The beginning of us.</p>
+              <p>October 11, 2024 — The beginning of us.</p>
               <p>October 11, 2025 — Two years of our love.</p>
               <p className="text-[#FFF8F0] font-bold text-lg pt-2">And many more chapters to come.</p>
             </div>
