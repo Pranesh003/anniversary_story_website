@@ -129,7 +129,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     chapterNumber: "06",
     title: "One Heart, So Many Questions",
     subtitle: "The Waiting Period",
-    date: "October 2023",
+    date: "October 2024",
     badge: "Waiting & Hope",
     content: [
       "Days passed, and I was still waiting for your answer.",
