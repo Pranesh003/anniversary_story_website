@@ -34,7 +34,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "If only I had known where this first sight would take me.",
     highlightText: "You didn't know it then, but my story had already started with you.",
     imagePlaceholderName: "first-college-day.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/first-college-day.jpg",
     imageCaption: "First Day at College — September 19, 2023",
     theme: "cream"
   },

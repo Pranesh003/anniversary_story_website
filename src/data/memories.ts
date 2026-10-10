@@ -25,7 +25,7 @@ export const MEMORIES: MemoryItem[] = [
     title: 'First Campus Stroll',
     date: 'September 2023',
     category: 'college',
-    imageUrl: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=800&auto=format&fit=crop',
+    imageUrl: '/images/first-college-day.jpg',
     placeholderName: 'first-college-day.jpg',
     caption: 'Walking through college pathways, pretending I wasn\'t completely mesmerized by your smile.',
     handwrittenNote: 'Where it all started...',
