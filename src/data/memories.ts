@@ -43,6 +43,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Karpagam College Campus'
   },
   {
+    id: 'm1e',
+    title: 'Mangalore Panambur Beach Day ❤️',
+    date: 'College IV Trip',
+    category: 'dates',
+    imageUrl: '/images/mangalore-panambur-beach.jpg?v=1',
+    placeholderName: 'mangalore-panambur-beach.jpg',
+    caption: 'That day I promised to bring you back here to lead our life together, and we exchanged our rings beside the beach waves.',
+    handwrittenNote: 'Exchanging rings by the ocean waves, promising a lifetime together... ❤️',
+    location: 'Mangalore Panambur Beach'
+  },
+  {
     id: 'm1c',
     title: 'Somewhere Between Friends & Love',
     date: 'October 2023',
