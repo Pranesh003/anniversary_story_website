@@ -128,13 +128,13 @@ export const StoryChapter: React.FC<StoryChapterProps> = ({ chapter }) => {
             className="lg:col-span-5 flex flex-col items-center"
           >
             <div className="polaroid-card w-full max-w-sm rounded-lg transform rotate-0 transition-transform duration-300">
-              <div className="relative aspect-4/3 w-full bg-[#F4E7D8] rounded overflow-hidden shadow-inner group">
+              <div className="relative min-h-[300px] max-h-[480px] w-full bg-[#F4E7D8]/80 rounded overflow-hidden shadow-inner flex items-center justify-center group">
                 {!imgError ? (
                   <img
                     src={chapter.defaultImageUrl}
                     alt={chapter.imageCaption}
                     onError={() => setImgError(true)}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    className="max-w-full max-h-[480px] w-auto h-auto object-contain group-hover:scale-105 transition-transform duration-500 rounded"
                   />
                 ) : (
                   <div className="w-full h-full flex flex-col items-center justify-center p-6 text-center bg-[#F4E7D8] text-[#782E43]">
