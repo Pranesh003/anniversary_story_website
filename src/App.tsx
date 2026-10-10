@@ -6,15 +6,29 @@ import { StoryChapter } from './components/StoryChapter';
 import { MemoryGallery } from './components/MemoryGallery';
 import { FinalLetter } from './components/FinalLetter';
 import { MusicPlayer } from './components/MusicPlayer';
+import { UnlockMyHeartGame } from './components/game/UnlockMyHeartGame';
 import { STORY_CHAPTERS } from './data/story';
 
 export function App() {
   const [isPlayingMusic, setIsPlayingMusic] = useState(false);
   const [introPassed, setIntroPassed] = useState(false);
+  const [showGame, setShowGame] = useState(true); // Mini-game opens first as the romantic entrance!
 
   const handleStartJourney = () => {
     setIntroPassed(true);
-    // Start music on first interaction
+    setShowGame(false);
+    setIsPlayingMusic(true);
+    setTimeout(() => {
+      const chapter1 = document.getElementById('chapter-1');
+      if (chapter1) {
+        chapter1.scrollIntoView({ behavior: 'smooth' });
+      }
+    }, 200);
+  };
+
+  const handleEnterStoryFromGame = () => {
+    setShowGame(false);
+    setIntroPassed(true);
     setIsPlayingMusic(true);
     setTimeout(() => {
       const chapter1 = document.getElementById('chapter-1');
@@ -26,6 +40,7 @@ export function App() {
 
   const handleSelectChapter = (id: number) => {
     setIntroPassed(true);
+    setShowGame(false);
     const chapterEl = document.getElementById(`chapter-${id}`);
     if (chapterEl) {
       chapterEl.scrollIntoView({ behavior: 'smooth' });
@@ -42,6 +57,15 @@ export function App() {
 
   return (
     <div className="min-h-screen bg-[#FFF8F0] text-[#38272A] font-sans selection:bg-[#D8A0A8] selection:text-[#38272A]">
+      {/* Mini-game Opening Modal */}
+      <UnlockMyHeartGame
+        isOpen={showGame}
+        onClose={() => setShowGame(false)}
+        onEnterStory={handleEnterStoryFromGame}
+        isPlayingMusic={isPlayingMusic}
+        onToggleMusic={handleToggleMusic}
+      />
+
       {/* Floating Header Progress Navigation */}
       {introPassed && (
         <ProgressIndicator
@@ -56,6 +80,7 @@ export function App() {
         onStartJourney={handleStartJourney}
         isPlayingMusic={isPlayingMusic}
         onToggleMusic={handleToggleMusic}
+        onOpenGame={() => setShowGame(true)}
       />
 
       {/* Main Journey Container */}
@@ -88,7 +113,7 @@ export function App() {
         onToggle={handleToggleMusic}
       />
 
-      {/* Footer & Personalization Notice */}
+      {/* Footer */}
       <footer className="bg-[#38272A] text-[#F4E7D8] py-10 px-4 text-center border-t border-[#782E43]">
         <div className="max-w-4xl mx-auto space-y-3">
           <p className="font-serif-romantic text-2xl text-[#D8A0A8]">
@@ -97,8 +122,6 @@ export function App() {
           <p className="text-xs text-[#F4E7D8]/70 max-w-lg mx-auto">
             September 19, 2023 – October 11, 2026 and forever. Built with love for Swasthika.
           </p>
-
-
         </div>
       </footer>
     </div>

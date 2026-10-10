@@ -7,12 +7,14 @@ interface OpeningLetterProps {
   onStartJourney: () => void;
   isPlayingMusic: boolean;
   onToggleMusic: () => void;
+  onOpenGame?: () => void;
 }
 
 export const OpeningLetter: React.FC<OpeningLetterProps> = ({
   onStartJourney,
   isPlayingMusic,
-  onToggleMusic
+  onToggleMusic,
+  onOpenGame
 }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [letterRevealed, setLetterRevealed] = useState(false);
@@ -185,11 +187,21 @@ export const OpeningLetter: React.FC<OpeningLetterProps> = ({
 
               <div className="h-px bg-gradient-to-r from-transparent via-[#D8A0A8] to-transparent my-6" />
 
-              {/* Begin Journey CTA */}
+              {/* Begin Journey & Game CTA */}
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-6">
+                {onOpenGame && (
+                  <button
+                    onClick={onOpenGame}
+                    className="w-full sm:w-auto flex items-center justify-center gap-2.5 px-8 py-4 rounded-full bg-[#C5A46D] text-[#38272A] font-bold text-base sm:text-lg shadow-xl hover:bg-[#D8A0A8] hover:scale-105 transition-all border border-[#782E43]/30 animate-pulse cursor-pointer"
+                  >
+                    <Sparkles className="w-5 h-5 text-[#782E43]" />
+                    <span>Play "Unlock My Heart" Game 💗</span>
+                  </button>
+                )}
+
                 <button
                   onClick={onStartJourney}
-                  className="w-full sm:w-auto flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-[#782E43] to-[#8C3A52] text-[#FFF8F0] font-semibold text-base sm:text-lg shadow-xl hover:shadow-2xl hover:scale-105 transition-all"
+                  className="w-full sm:w-auto flex items-center justify-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-[#782E43] to-[#8C3A52] text-[#FFF8F0] font-semibold text-base sm:text-lg shadow-xl hover:shadow-2xl hover:scale-105 transition-all cursor-pointer"
                 >
                   <span>Begin Our Journey</span>
                   <ArrowDown className="w-5 h-5 animate-bounce text-[#D8A0A8]" />
@@ -198,7 +210,7 @@ export const OpeningLetter: React.FC<OpeningLetterProps> = ({
                 {!isPlayingMusic && (
                   <button
                     onClick={onToggleMusic}
-                    className="w-full sm:w-auto flex items-center justify-center gap-2 px-6 py-3.5 rounded-full border border-[#782E43] text-[#782E43] hover:bg-[#782E43] hover:text-[#FFF8F0] font-medium text-sm transition-all"
+                    className="w-full sm:w-auto flex items-center justify-center gap-2 px-6 py-3.5 rounded-full border border-[#782E43] text-[#782E43] hover:bg-[#782E43] hover:text-[#FFF8F0] font-medium text-sm transition-all cursor-pointer"
                   >
                     <Play className="w-4 h-4" />
                     <span>Play Background Music</span>
