@@ -34,7 +34,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "If only I had known where this first sight would take me.",
     highlightText: "You didn't know it then, but my story had already started with you.",
     imagePlaceholderName: "first-college-day.jpg",
-    defaultImageUrl: "/images/first-college-day.jpg",
+    defaultImageUrl: "/images/first-college-day.jpg?v=3",
     imageCaption: "First Day at College — September 19, 2023",
     theme: "cream"
   },
@@ -55,7 +55,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Some people slowly become a part of your everyday life. Then one day, you realize you miss them whenever they're not there.",
     highlightText: "Without even trying, you were becoming someone I never wanted to lose.",
     imagePlaceholderName: "college-friendship.jpg",
-    defaultImageUrl: "/images/college-friendship.jpg",
+    defaultImageUrl: "/images/college-friendship.jpg?v=3",
     imageCaption: "Unspoken care in everyday college conversations",
     theme: "scrapbook"
   },
@@ -76,7 +76,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "One hint, one hope, and one step closer to you.",
     highlightText: "I wanted to tell you everything, but finding the right words was not easy.",
     imagePlaceholderName: "college-event.jpg",
-    defaultImageUrl: "/images/college-event.jpg",
+    defaultImageUrl: "/images/college-event.jpg?v=3",
     imageCaption: "The College Event Invitation",
     theme: "rose"
   },
@@ -97,7 +97,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Was this a hint, Swasthika, or was my heart just hoping?",
     highlightText: "Maybe this was the hint my heart had been waiting for.",
     imagePlaceholderName: "vacation-reel-screenshot.jpg",
-    defaultImageUrl: "/images/vacation-reel-screenshot.jpg?v=2",
+    defaultImageUrl: "/images/vacation-reel-screenshot.jpg?v=3",
     imageCaption: "The Vacation Reel Message",
     theme: "cream"
   },
@@ -121,7 +121,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "I didn't say it perfectly. I just meant every word.",
     highlightText: "I had so much to say, but when I stood in front of you, my heart knew more than my words.",
     imagePlaceholderName: "rotaract-memory.jpg",
-    defaultImageUrl: "/images/rotaract-memory.jpg",
+    defaultImageUrl: "/images/rotaract-memory.jpg?v=3",
     imageCaption: "Rotaract Club Inauguration Day",
     theme: "gold"
   },
@@ -142,7 +142,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Give me one reason to love you, Pranesh...",
     highlightText: "Every moment of waiting was proof of how deeply I cared.",
     imagePlaceholderName: "waiting-calendar-memory.jpg",
-    defaultImageUrl: "/images/waiting-calendar-memory.jpg",
+    defaultImageUrl: "/images/waiting-calendar-memory.jpg?v=3",
     imageCaption: "Days of Hope & Nervous Anticipation",
     theme: "cream"
   },
@@ -165,7 +165,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Some nights become memories that stay with us forever.",
     highlightText: "From darkness into the quiet magic of midnight...",
     imagePlaceholderName: "starry-midnight.jpg",
-    defaultImageUrl: "/images/starry-midnight.jpg",
+    defaultImageUrl: "/images/starry-midnight.jpg?v=3",
     imageCaption: "October 10, 2023 — The Midnight Sky",
     theme: "midnight"
   },
@@ -191,7 +191,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "3 AM laughter, a morning phone call, and three words that changed everything.",
     highlightText: "I LOVE YOU TOO",
     imagePlaceholderName: "our-first-call.jpg",
-    defaultImageUrl: "/images/our-first-call.jpg",
+    defaultImageUrl: "/images/our-first-call.jpg?v=3",
     imageCaption: "October 11, 2023 — The Beginning of Us",
     theme: "rose"
   },
