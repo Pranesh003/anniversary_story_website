@@ -43,6 +43,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Karpagam College Campus'
   },
   {
+    id: 'm1i',
+    title: 'Our College IV Days — Caring for You ❤️',
+    date: 'College IV Trip',
+    category: 'support',
+    imageUrl: '/images/college-iv-water-care.jpg?v=1',
+    placeholderName: 'college-iv-water-care.jpg',
+    caption: 'During our college IV trip, seeing you so tired and bringing water for you — a moment of care that felt so romantic and real.',
+    handwrittenNote: 'Bringing you water when you were tired on our IV trip... always caring for you ❤️',
+    location: 'College IV Outing'
+  },
+  {
     id: 'm1h',
     title: 'Our First Ride Date ❤️',
     date: 'Special Ride Date',
