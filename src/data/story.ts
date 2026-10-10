@@ -55,7 +55,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Some people slowly become a part of your everyday life. Then one day, you realize you miss them whenever they're not there.",
     highlightText: "Without even trying, you were becoming someone I never wanted to lose.",
     imagePlaceholderName: "college-friendship.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/college-friendship.jpg",
     imageCaption: "Unspoken care in everyday college conversations",
     theme: "scrapbook"
   },

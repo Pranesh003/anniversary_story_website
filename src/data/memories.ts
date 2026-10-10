@@ -32,6 +32,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'College Campus'
   },
   {
+    id: 'm1b',
+    title: 'Friendship Before Love',
+    date: 'Late September 2023',
+    category: 'college',
+    imageUrl: '/images/college-friendship.jpg',
+    placeholderName: 'college-friendship.jpg',
+    caption: 'Unspoken care in everyday college moments together.',
+    handwrittenNote: 'Becoming someone I never wanted to lose...',
+    location: 'Karpagam College Campus'
+  },
+  {
     id: 'm2',
     title: 'Rotaract Event Evening',
     date: 'October 2023',
