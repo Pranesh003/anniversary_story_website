@@ -98,6 +98,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Late Night Phone Call'
   },
   {
+    id: 'm3b',
+    title: 'Our Pongal 2025 — First Photoshoot ❤️',
+    date: 'January 2025',
+    category: 'photos',
+    imageUrl: '/images/our-pongal-2025.jpg?v=1',
+    placeholderName: 'our-pongal-2025.jpg',
+    caption: 'Our Pongal 2025 Day — Our first special photoshoot & pre-wedding vibes.',
+    handwrittenNote: 'Our very first photoshoot together... looking like a dream ❤️',
+    location: 'College Fest Grounds'
+  },
+  {
     id: 'm4',
     title: 'Our Pongal 2026 Celebration ❤️',
     date: 'January 2026',
