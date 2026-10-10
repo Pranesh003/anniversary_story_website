@@ -154,8 +154,8 @@ export const MEMORIES: MemoryItem[] = [
   },
   {
     id: 'm10',
-    title: 'Second Anniversary — October 11, 2025',
-    date: 'October 11, 2025',
+    title: 'Second Anniversary — October 11, 2026',
+    date: 'October 11, 2026',
     category: 'photos',
     imageUrl: 'https://images.unsplash.com/photo-1522673607200-164d1b6ce486?q=80&w=800&auto=format&fit=crop',
     placeholderName: 'second-anniversary.jpg',

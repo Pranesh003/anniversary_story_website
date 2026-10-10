@@ -176,7 +176,7 @@ export const OpeningLetter: React.FC<OpeningLetterProps> = ({
                   Before you scroll through these pages, I want you to take a breath and travel back in time with me.
                 </p>
                 <p>
-                  From the moment I first saw you in college on September 19, 2023, to the nervous rotaract club confession, our 3 AM late-night talks, and our second anniversary on October 11, 2025...
+                  From the moment I first saw you in college on September 19, 2023, to the nervous rotaract club confession, our 3 AM late-night talks, and our second anniversary on October 11, 2026...
                 </p>
                 <p className="text-[#782E43] font-bold">
                   Every scroll is a chapter of us. Every memory belongs to you.

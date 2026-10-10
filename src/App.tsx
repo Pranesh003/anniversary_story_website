@@ -95,7 +95,7 @@ export function App() {
             Our Story — Pranesh ❤️ Swasthika
           </p>
           <p className="text-xs text-[#F4E7D8]/70 max-w-lg mx-auto">
-            September 19, 2023 – October 11, 2025 and forever. Built with love for Swasthika.
+            September 19, 2023 – October 11, 2026 and forever. Built with love for Swasthika.
           </p>
 
           <div className="inline-block mt-4 px-4 py-2 bg-[#782E43]/60 rounded-lg text-left text-[11px] font-mono border border-[#D8A0A8]/30 max-w-md">

@@ -96,7 +96,7 @@ export const RelationshipCounter: React.FC = () => {
           </div>
           <div className="flex items-center gap-1.5">
             <Heart className="w-4 h-4 text-[#D8A0A8] fill-[#D8A0A8]" />
-            <span>1st Anniversary: <strong>Oct 11, 2025</strong></span>
+            <span>2nd Anniversary: <strong>Oct 11, 2026</strong></span>
           </div>
           <div className="flex items-center gap-1.5">
             <Clock className="w-4 h-4 text-[#C5A46D]" />
