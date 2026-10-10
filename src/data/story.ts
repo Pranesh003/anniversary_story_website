@@ -97,7 +97,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Was this a hint, Swasthika, or was my heart just hoping?",
     highlightText: "Maybe this was the hint my heart had been waiting for.",
     imagePlaceholderName: "vacation-reel-screenshot.jpg",
-    defaultImageUrl: "/images/vacation-reel-screenshot.jpg",
+    defaultImageUrl: "/images/vacation-reel-screenshot.jpg?v=2",
     imageCaption: "The Vacation Reel Message",
     theme: "cream"
   },

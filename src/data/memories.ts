@@ -58,7 +58,7 @@ export const MEMORIES: MemoryItem[] = [
     title: 'Was That a Hint?',
     date: 'Early October 2023',
     category: 'laughs',
-    imageUrl: '/images/vacation-reel-screenshot.jpg',
+    imageUrl: '/images/vacation-reel-screenshot.jpg?v=2',
     placeholderName: 'vacation-reel-screenshot.jpg',
     caption: 'The reel she sent with "hey 🤍" that made my heart wonder...',
     handwrittenNote: 'Was it a hint or was my heart just hoping?',
