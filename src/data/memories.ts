@@ -67,13 +67,13 @@ export const MEMORIES: MemoryItem[] = [
   {
     id: 'm2',
     title: 'The Day I Proposed to Her ❤️',
-    date: 'October 2023',
+    date: 'September 26, 2024',
     category: 'college',
     imageUrl: '/images/rotaract-memory-v10.jpg',
     placeholderName: 'rotaract-memory.jpg',
     caption: 'On this day I proposed to her ❤️',
     handwrittenNote: 'My heart was beating so fast!',
-    location: 'Auditorium'
+    location: 'Proposal Day'
   },
   {
     id: 'm3',
