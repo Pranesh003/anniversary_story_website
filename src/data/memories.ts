@@ -120,6 +120,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'College Fest Grounds'
   },
   {
+    id: 'm3c',
+    title: 'Our Onam Celebration Day 2025 ❤️',
+    date: 'September 2025',
+    category: 'photos',
+    imageUrl: '/images/our-onam-2025-celebration.jpg?v=1',
+    placeholderName: 'our-onam-2025-celebration.jpg',
+    caption: 'Our Onam Celebration Day 2025 — You looked gorgeous in your saree, and I always love keeping my arm around your waist.',
+    handwrittenNote: 'You looked gorgeous that day, Swasthika... always holding you close ❤️',
+    location: 'Onam Celebration'
+  },
+  {
     id: 'm4',
     title: 'Our Pongal 2026 Celebration ❤️',
     date: 'January 2026',
