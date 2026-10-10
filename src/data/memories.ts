@@ -66,12 +66,12 @@ export const MEMORIES: MemoryItem[] = [
   },
   {
     id: 'm2',
-    title: 'Rotaract Event Evening',
+    title: 'Our Golden Days of Friendship',
     date: 'October 2023',
     category: 'college',
-    imageUrl: '/images/rotaract-memory.jpg?v=3',
+    imageUrl: '/images/rotaract-memory-v10.jpg',
     placeholderName: 'rotaract-memory.jpg',
-    caption: 'Standing nervously next to you before holding your hand and confessing my heart.',
+    caption: 'Our golden days of friendship',
     handwrittenNote: 'My heart was beating so fast!',
     location: 'Auditorium'
   },

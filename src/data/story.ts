@@ -121,8 +121,8 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "I didn't say it perfectly. I just meant every word.",
     highlightText: "I had so much to say, but when I stood in front of you, my heart knew more than my words.",
     imagePlaceholderName: "rotaract-memory.jpg",
-    defaultImageUrl: "/images/rotaract-memory.jpg?v=3",
-    imageCaption: "Rotaract Club Inauguration Day",
+    defaultImageUrl: "/images/rotaract-memory-v10.jpg",
+    imageCaption: "Our golden days of friendship",
     theme: "gold"
   },
   {
