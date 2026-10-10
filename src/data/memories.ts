@@ -43,6 +43,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Karpagam College Campus'
   },
   {
+    id: 'm1h',
+    title: 'Our First Ride Date ❤️',
+    date: 'Special Ride Date',
+    category: 'dates',
+    imageUrl: '/images/our-first-ride-date.jpg?v=1',
+    placeholderName: 'our-first-ride-date.jpg',
+    caption: 'Our first ride date — taking you on my vehicle and dropping you at the bus stand with a heart full of happiness.',
+    handwrittenNote: 'Dropping you at the bus stand after our very first ride date... ❤️',
+    location: 'Bus Stand Drop-off'
+  },
+  {
     id: 'm1f',
     title: 'Our Rathinam College Days ❤️',
     date: 'College Memories',
