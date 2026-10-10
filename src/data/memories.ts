@@ -43,6 +43,17 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Karpagam College Campus'
   },
   {
+    id: 'm1c',
+    title: 'Somewhere Between Friends & Love',
+    date: 'October 2023',
+    category: 'dates',
+    imageUrl: '/images/college-event.jpg',
+    placeholderName: 'college-event.jpg',
+    caption: 'Carrying feelings inside and hoping you would understand what was in my heart.',
+    handwrittenNote: 'One hint, one hope, and one step closer...',
+    location: 'Coorg Outing'
+  },
+  {
     id: 'm2',
     title: 'Rotaract Event Evening',
     date: 'October 2023',

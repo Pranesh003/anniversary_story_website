@@ -76,7 +76,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "One hint, one hope, and one step closer to you.",
     highlightText: "I wanted to tell you everything, but finding the right words was not easy.",
     imagePlaceholderName: "college-event.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/college-event.jpg",
     imageCaption: "The College Event Invitation",
     theme: "rose"
   },
