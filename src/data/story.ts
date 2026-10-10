@@ -122,7 +122,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     highlightText: "I had so much to say, but when I stood in front of you, my heart knew more than my words.",
     imagePlaceholderName: "rotaract-memory.jpg",
     defaultImageUrl: "/images/rotaract-memory-v10.jpg",
-    imageCaption: "Our golden days of friendship",
+    imageCaption: "On this day I proposed to her ❤️",
     theme: "gold"
   },
   {
@@ -142,7 +142,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Give me one reason to love you, Pranesh...",
     highlightText: "Every moment of waiting was proof of how deeply I cared.",
     imagePlaceholderName: "waiting-calendar-memory.jpg",
-    defaultImageUrl: "/images/waiting-calendar-memory-v8.jpg",
+    defaultImageUrl: "/images/waiting-calendar-memory-v10.jpg",
     imageCaption: "Days of Hope & Nervous Anticipation",
     theme: "cream"
   },
