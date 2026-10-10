@@ -38,7 +38,7 @@ export const MEMORIES: MemoryItem[] = [
     category: 'college',
     imageUrl: '/images/college-friendship.jpg?v=3',
     placeholderName: 'college-friendship.jpg',
-    caption: 'Unspoken care in everyday college moments together.',
+    caption: 'Our first college IV days',
     handwrittenNote: 'Becoming someone I never wanted to lose...',
     location: 'Karpagam College Campus'
   },

@@ -56,7 +56,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     highlightText: "Without even trying, you were becoming someone I never wanted to lose.",
     imagePlaceholderName: "college-friendship.jpg",
     defaultImageUrl: "/images/college-friendship.jpg?v=3",
-    imageCaption: "Unspoken care in everyday college conversations",
+    imageCaption: "Our first college IV days",
     theme: "scrapbook"
   },
   {
