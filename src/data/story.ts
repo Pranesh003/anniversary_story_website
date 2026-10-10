@@ -150,10 +150,10 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     chapterNumber: "07",
     title: "The Night That Changed Everything",
     subtitle: "The Midnight Conversation",
-    date: "October 10, 2023",
+    date: "October 10, 2024",
     badge: "The Midnight Turning Point",
     content: [
-      "October 10, 2023.",
+      "October 10, 2024.",
       "We were chatting as usual, talking about my feelings and how confused I was about expressing my love to you.",
       "But that night, everything felt more serious. There was pressure, uncertainty, and so many emotions between us. It felt like an endless night.",
       "I didn't know what was going to happen. I only knew how much I wanted you to understand my heart.",
@@ -165,7 +165,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     highlightText: "From darkness into the quiet magic of midnight...",
     imagePlaceholderName: "starry-midnight.jpg",
     defaultImageUrl: "/images/starry-midnight.jpg?v=3",
-    imageCaption: "October 10, 2023 — The Midnight Sky",
+    imageCaption: "October 10, 2024 — The Midnight Sky",
     theme: "midnight"
   },
   {
@@ -173,10 +173,10 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     chapterNumber: "08",
     title: "The Beginning of Us",
     subtitle: "She Said Yes!",
-    date: "October 11, 2023",
+    date: "October 11, 2024",
     badge: "FOREVER BEGINS",
     content: [
-      "October 11, 2023.",
+      "October 11, 2024.",
       "The moment I had been hoping for finally came. You accepted my love and expressed your love to me, too!",
       "I can't fully explain how happy I felt. At that moment, I felt like the happiest person in the world.",
       "After all the waiting, the nervousness, and the effort to tell you what was in my heart, I finally had something I had been wishing for: the beginning of our love story.",
@@ -191,7 +191,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     highlightText: "I LOVE YOU TOO",
     imagePlaceholderName: "our-first-call.jpg",
     defaultImageUrl: "/images/our-first-call.jpg?v=3",
-    imageCaption: "October 11, 2023 — The Beginning of Us",
+    imageCaption: "October 11, 2024 — The Beginning of Us",
     theme: "rose"
   },
   {

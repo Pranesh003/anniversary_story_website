@@ -78,7 +78,7 @@ export const MEMORIES: MemoryItem[] = [
   {
     id: 'm3',
     title: 'Late Night 3 AM Laughter',
-    date: 'October 11, 2023',
+    date: 'October 11, 2024',
     category: 'dates',
     imageUrl: '/images/our-first-call.jpg?v=3',
     placeholderName: 'our-first-call.jpg',
