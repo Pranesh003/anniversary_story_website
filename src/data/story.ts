@@ -97,7 +97,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Was this a hint, Swasthika, or was my heart just hoping?",
     highlightText: "Maybe this was the hint my heart had been waiting for.",
     imagePlaceholderName: "vacation-reel-screenshot.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/vacation-reel-screenshot.jpg",
     imageCaption: "The Vacation Reel Message",
     theme: "cream"
   },
@@ -121,7 +121,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "I didn't say it perfectly. I just meant every word.",
     highlightText: "I had so much to say, but when I stood in front of you, my heart knew more than my words.",
     imagePlaceholderName: "rotaract-memory.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/rotaract-memory.jpg",
     imageCaption: "Rotaract Club Inauguration Day",
     theme: "gold"
   },
@@ -142,7 +142,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Give me one reason to love you, Pranesh...",
     highlightText: "Every moment of waiting was proof of how deeply I cared.",
     imagePlaceholderName: "waiting-calendar-memory.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/waiting-calendar-memory.jpg",
     imageCaption: "Days of Hope & Nervous Anticipation",
     theme: "cream"
   },
@@ -165,7 +165,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "Some nights become memories that stay with us forever.",
     highlightText: "From darkness into the quiet magic of midnight...",
     imagePlaceholderName: "starry-midnight.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1509773896068-7fd415d91e2b?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/starry-midnight.jpg",
     imageCaption: "October 10, 2023 — The Midnight Sky",
     theme: "midnight"
   },
@@ -191,7 +191,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     handwrittenCaption: "3 AM laughter, a morning phone call, and three words that changed everything.",
     highlightText: "I LOVE YOU TOO",
     imagePlaceholderName: "our-first-call.jpg",
-    defaultImageUrl: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=1200&auto=format&fit=crop",
+    defaultImageUrl: "/images/our-first-call.jpg",
     imageCaption: "October 11, 2023 — The Beginning of Us",
     theme: "rose"
   },

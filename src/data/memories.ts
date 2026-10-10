@@ -54,11 +54,22 @@ export const MEMORIES: MemoryItem[] = [
     location: 'Coorg Outing'
   },
   {
+    id: 'm1d',
+    title: 'Was That a Hint?',
+    date: 'Early October 2023',
+    category: 'laughs',
+    imageUrl: '/images/vacation-reel-screenshot.jpg',
+    placeholderName: 'vacation-reel-screenshot.jpg',
+    caption: 'The reel she sent with "hey 🤍" that made my heart wonder...',
+    handwrittenNote: 'Was it a hint or was my heart just hoping?',
+    location: 'Vacation Reel Message'
+  },
+  {
     id: 'm2',
     title: 'Rotaract Event Evening',
     date: 'October 2023',
     category: 'college',
-    imageUrl: 'https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=800&auto=format&fit=crop',
+    imageUrl: '/images/rotaract-memory.jpg',
     placeholderName: 'rotaract-memory.jpg',
     caption: 'Standing nervously next to you before holding your hand and confessing my heart.',
     handwrittenNote: 'My heart was beating so fast!',
@@ -69,7 +80,7 @@ export const MEMORIES: MemoryItem[] = [
     title: 'Late Night 3 AM Laughter',
     date: 'October 11, 2023',
     category: 'dates',
-    imageUrl: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?q=80&w=800&auto=format&fit=crop',
+    imageUrl: '/images/our-first-call.jpg',
     placeholderName: 'our-first-call.jpg',
     caption: 'The night she said yes. Chatting until 3 AM and the unforgettable morning call: "I love you too."',
     handwrittenNote: 'Best night of my life ❤️',
