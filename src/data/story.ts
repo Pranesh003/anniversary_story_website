@@ -98,7 +98,7 @@ export const STORY_CHAPTERS: StoryChapterData[] = [
     highlightText: "Maybe this was the hint my heart had been waiting for.",
     imagePlaceholderName: "vacation-reel-screenshot.jpg",
     defaultImageUrl: "/images/vacation-reel-screenshot.jpg?v=3",
-    imageCaption: "The Vacation Reel Message",
+    imageCaption: "Our Imparathon Event Days",
     theme: "cream"
   },
   {

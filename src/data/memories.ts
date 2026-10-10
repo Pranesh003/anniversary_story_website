@@ -60,9 +60,9 @@ export const MEMORIES: MemoryItem[] = [
     category: 'laughs',
     imageUrl: '/images/vacation-reel-screenshot.jpg?v=3',
     placeholderName: 'vacation-reel-screenshot.jpg',
-    caption: 'The reel she sent with "hey 🤍" that made my heart wonder...',
+    caption: 'Our Imparathon Event Days',
     handwrittenNote: 'Was it a hint or was my heart just hoping?',
-    location: 'Vacation Reel Message'
+    location: 'Imparathon Event Days'
   },
   {
     id: 'm2',
